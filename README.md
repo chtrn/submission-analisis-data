@@ -26,7 +26,7 @@ submission/
 Masuk ke folder utama proyek:
 
 ```bash
-cd Submission_Analisis_Data_Olist
+cd submission
 ```
 
 ### 2. Install library yang dibutuhkan
